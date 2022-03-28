@@ -1,1 +1,1 @@
-Landing page for the Odin Project
+Landing page assignment for the Odin Project
